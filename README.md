@@ -22,4 +22,3 @@ Machine learning system that detects malicious network traffic (port scans, SYN 
 ## Limitations
 - Data is simulated, so real-world scores would be lower. Next step: retrain on NSL-KDD or CIC-IDS2017.
 - Not yet connected to live packet capture (planned: Wireshark/tshark export -> features -> model).
-
